@@ -1,2 +1,2 @@
 # odin-recipes
-Project Recipes TOP
+First project in TOP, a basic recipe website 
